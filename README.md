@@ -1,4 +1,4 @@
-# Кино Бот — Telegram бот для рекомендации фильмов
+# 🎬 Кино Бот — Telegram бот для рекомендации фильмов
 
 ## Описание проекта
 
@@ -32,7 +32,6 @@ Telegram-бот помогает пользователям выбирать ф�
 | `/history` | Избранные фильмы |
 | `/help` | Помощь |
 
-
 ## Установка и запуск
 
 ```bash
@@ -44,17 +43,12 @@ python manage.py createsuperuser
 python manage.py runserver
 python telegram_bot.py
 ```
-
-## Скриншоты
-
-![Главное меню](screenshots/menu.png)
-![Рекомендация](screenshots/recommend.png)
-![Избранное](screenshots/favorites.png)
-![Админка](screenshots/admin.png)
-![Случайный фильм](screenshots/random.png)
-![Помощь](screenshots/help.png)
-![Донат](screenshots/donate.png)
-![История](screenshots/history.png)
-
-
-
+Скриншоты
+https://screenshots/menu.png
+https://screenshots/recommend.png
+https://screenshots/favorites.png
+https://screenshots/admin.png
+https://screenshots/random.png
+https://screenshots/help.png
+https://screenshots/donate.png
+https://screenshots/history.png
