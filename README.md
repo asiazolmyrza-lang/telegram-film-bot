@@ -32,6 +32,7 @@ Telegram-бот помогает пользователям выбирать ф�
 | `/history` | Избранные фильмы |
 | `/help` | Помощь |
 
+
 ## Установка и запуск
 
 ```bash
@@ -42,3 +43,18 @@ python manage.py migrate
 python manage.py createsuperuser
 python manage.py runserver
 python telegram_bot.py
+```
+
+## Скриншоты
+
+![Главное меню](menu.png)
+![Рекомендация](recommend.png)
+![Избранное](favorites.png)
+![Админка](admin.png)
+![Случайный фильм](random.png)
+![Помощь](help.png)
+![Донат](donate.png)
+
+
+
+
