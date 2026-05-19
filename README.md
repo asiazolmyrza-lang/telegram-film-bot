@@ -59,13 +59,6 @@ Telegram-бот помогает пользователям выбирать ф�
 
 ## Установка и запуск
 
-### 1. Клонировать проект
-```bash
-git clone [ссылка на репозиторий]
-cd mysite
-```
-## Установка и запуск
-
 ```bash
 git clone https://github.com/asiazolmyrza-lang/telegram-film-bot
 cd mysite
@@ -76,11 +69,11 @@ python manage.py runserver
 python telegram_bot.py
 ```
 Скриншоты
-https://screenshots/menu.png
-https://screenshots/recommend.png
-https://screenshots/favorites.png
-https://screenshots/admin.png
-https://screenshots/random.png
-https://screenshots/help.png
-https://screenshots/donate.png
-https://screenshots/history.png
+![Главное меню](screenshots/menu.png)
+
+
+
+
+
+
+
