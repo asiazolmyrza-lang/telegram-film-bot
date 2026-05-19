@@ -47,14 +47,14 @@ python telegram_bot.py
 
 ## Скриншоты
 
-![Главное меню](menu.png)
-![Рекомендация](recommend.png)
-![Избранное](favorites.png)
-![Админка](admin.png)
-![Случайный фильм](random.png)
-![Помощь](help.png)
-![Донат](donate.png)
-
+![Главное меню](screenshots/menu.png)
+![Рекомендация](screenshots/recommend.png)
+![Избранное](screenshots/favorites.png)
+![Админка](screenshots/admin.png)
+![Случайный фильм](screenshots/random.png)
+![Помощь](screenshots/help.png)
+![Донат](screenshots/donate.png)
+![История](screenshots/history.png)
 
 
 
