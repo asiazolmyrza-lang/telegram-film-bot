@@ -68,8 +68,16 @@ python manage.py createsuperuser
 python manage.py runserver
 python telegram_bot.py
 ```
-Скриншоты
+## Скриншоты
+
 ![Главное меню](screenshots/menu.png)
+![Рекомендация](screenshots/recommend.png)
+![Избранное](screenshots/favorites.png)
+![Админка](screenshots/admin.png)
+![Случайный фильм](screenshots/random.png)
+![Помощь](screenshots/help.png)
+![Донат](screenshots/donate.png)
+![История](screenshots/history.png)
 
 
 
